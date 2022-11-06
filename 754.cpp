@@ -1,5 +1,8 @@
 #include <algorithm>
 using namespace std;
+
+// https://leetcode.cn/problems/reach-a-number/solution/
+
 class Solution
 {
 public:
